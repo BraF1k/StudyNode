@@ -9,4 +9,4 @@
 
 const currency = require("./learnnode/module.js");
 
-console.log(currency);
+console.log(currency.USToCanadian(5));
